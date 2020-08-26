@@ -1,0 +1,8 @@
+﻿  Game.cpp
+e:\second year\semester 1\games programming\yes\assignment1\assignment1\assignment1\assignment1\game.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 34 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignment1.vcxproj -> E:\Second Year\Semester 1\Games Programming\yes\Assignment1\Assignment1\Assignment1\Release\Assignment1.exe

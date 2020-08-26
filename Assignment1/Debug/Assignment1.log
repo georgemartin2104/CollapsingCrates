@@ -1,0 +1,8 @@
+﻿  Assignment1.cpp
+  crate.cpp
+  Game.cpp
+E:\Second Year (OLD)\Semester 1\Games Programming\yes\Assignment1\Assignment1\Assignment1\Assignment1\Game.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GM_Timer.cpp
+  player.cpp
+  Generating Code...
+  Assignment1.vcxproj -> E:\Second Year (OLD)\Semester 1\Games Programming\yes\Assignment1\Assignment1\Assignment1\Debug\Assignment1.exe
